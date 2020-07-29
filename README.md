@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href=https://github.com/TesseractCoding/NeoAlgo>
+   <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+</a>
 
 <!--
 **poojarathore30/poojarathore30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
