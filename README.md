@@ -1,5 +1,7 @@
 Pooja Rathore:
 > Innovative and Optimized solution seeker.
+> Full Stack Developer
+
 
 <!--
 **poojarathore30/poojarathore30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
