@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 😊
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
