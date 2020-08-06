@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact : 
 -->
 
-- 🔭 I’m currently working on Full Stack Development with MERN Stack
-- 🌱 I’m currently learning Web framework React and React Native
-- 👯 I’m looking to collaborate on Live Projects 
+- 🔭 Currently working on Full Stack Development with MERN Stack
+- 🌱 Currently learning Web framework React and React Native
+- 👯 Looking to collaborate on Live Projects 
 
 ## Badges
 <a href=https://github.com/TesseractCoding/NeoAlgo>
