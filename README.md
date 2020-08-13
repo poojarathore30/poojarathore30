@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
+
+## npm package (make-me-laugh) 🤣
+<a href=https://github.com/poojarathore30/make-me-laugh>
+   <img src=https://img.shields.io/npm/dw/make-me-laugh>
+</a>
