@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## npm packages 
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
-   <img src=https://img.shields.io/npm/dy/make-me-laugh>
+   <img src=https://img.shields.io/npm/dt/make-me-laugh>
 </a>
