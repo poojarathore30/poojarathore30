@@ -24,4 +24,4 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 ## Tools and technologies
-![](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
+
