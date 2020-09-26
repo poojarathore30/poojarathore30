@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
- <p align="right" > Profile</p>
+ <span align="right" > profile</span>
  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </a>
 
