@@ -43,5 +43,7 @@ Here are some ideas to get you started:
    <span>Nothing worth having, comes easy ! </span><br>
   
 </p>
- >Nothing worth having, comes easy ! <center>
+
+ >Nothing worth having, comes easy ! 
+ 
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
