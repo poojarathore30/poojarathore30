@@ -42,7 +42,8 @@ Here are some ideas to get you started:
    <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png">
 
 </p>
-> 🔶  Nothing worth having, comes easy !  🔶
+
+> Nothing worth having, comes easy !  🔶
 
  
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
