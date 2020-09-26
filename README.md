@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 ## Tools and technologies 
-<img align="right" width="100" height="100" src="https://www.python.org/python-.png">
+<img  width="100" height="100" src="https://colorlib.com/wp/wp-content/uploads/sites/2/react-dev-tools-logo.jpg">
 
 <p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
