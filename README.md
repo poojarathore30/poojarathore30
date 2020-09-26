@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Web framework React and React Native
 - 👯 Looking to collaborate on Live Projects 
 ##
+ <p align="left" >Profile</p>
 <a href=https://github.com/TesseractCoding/NeoAlgo>
- Badge
+
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
 <a>
