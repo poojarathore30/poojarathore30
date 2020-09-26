@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 <img  width="80" height="80" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
  <img width="80" height="80" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
   <img width="80" height="80" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
-   <img width="100" height="80" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
+   <img width="120" height="80" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
    <img width="80" height="80" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
-   <img width="120" height="100" src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg">
-   <img width="80" height="80" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
-
-
+   <img width="140" height="120" src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg">
+  
 </p>
 <p align="center" background="grey">
    <span>🔶  Nothing worth having, comes easy !  🔶</span><br>
