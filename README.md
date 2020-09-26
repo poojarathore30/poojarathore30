@@ -1,5 +1,5 @@
 ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_11.PNG)
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) <center>
+
  
 > Innovative and Optimized solution seeker.
 
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 
-
+ <center> ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
