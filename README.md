@@ -26,7 +26,8 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 <p align="center">
+   <span>Nothing worth having, comes easy ! </span>
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </p>
- ![visitors]() 
+ 
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
