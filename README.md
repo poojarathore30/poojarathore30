@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 <p align="center">
-   <span>Nothing worth having, comes easy ! </span>
+   <span>Nothing worth having, comes easy ! </span><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </p>
  
