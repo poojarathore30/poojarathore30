@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 - 🌱 Currently learning Web framework React and React Native
 - 👯 Looking to collaborate on Live Projects 
 
-## Badges
+## 🔰
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
+ <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </a>
 
 ## npm packages 
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
+  
 </p>
  
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
