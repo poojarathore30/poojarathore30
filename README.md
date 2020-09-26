@@ -1,4 +1,4 @@
-![](https://github.com/poojarathore30/GitTest/blob/master/Capture.PNG)
+![](https://github.com/poojarathore30/GitTest/blob/master/Capture_new.PNG)
 # Pooja Rathore: 
 > Innovative and Optimized solution seeker.
 
