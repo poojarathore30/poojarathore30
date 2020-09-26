@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 </a>
 ## Tools and technologies 
 <img  width="120" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
+<img  width="120" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi3riH1jgH8Pi1LdvCam3PnpFu4ANeFexthg&usqp=CAU">
+<img  width="120" height="120" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
+<img  width="120" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
 
 <p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
