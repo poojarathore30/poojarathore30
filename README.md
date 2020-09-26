@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <img  width="60" height="60" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
  <img  width="60" height="60" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
   <img width="60" height="60" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
-   <img width="120" height="80" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
+   <img width="120" height="70" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
    <img  width="60" height="60" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
    <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png">
    <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png">
-  <img width="60" height="60" src="https://www.ocpsoft.org/wp-content/uploads/2013/01/javascript_logo_unofficial-300x300.png">
+
 </p>
 <p align="center" background="grey">
    <span>🔶  Nothing worth having, comes easy !  🔶</span><br>
