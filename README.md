@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
+## Tools and technologies 
+<img align="right" width="100" height="100" src="https://www.python.org/python-.png">
+
 <p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
