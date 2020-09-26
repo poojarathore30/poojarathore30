@@ -35,8 +35,7 @@ Here are some ideas to get you started:
   <img  width="100" height="100" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
 
 </p>
->
-<p align="center">
+><p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </p>
