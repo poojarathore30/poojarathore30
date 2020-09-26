@@ -22,11 +22,13 @@ Here are some ideas to get you started:
  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </a>
 ##
+
 ## npm packages 
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 ##
+
 ## Tools and technologies 
 <p float="left">
 <img  width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
