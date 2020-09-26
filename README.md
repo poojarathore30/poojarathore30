@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - 🔭 Currently working on Full Stack Development with MERN Stack
 - 🌱 Currently learning Web framework React and React Native
 - 👯 Looking to collaborate on Live Projects 
-
-## 
+##
 <a href=https://github.com/TesseractCoding/NeoAlgo>
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </a>
+
 ## npm packages 
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
