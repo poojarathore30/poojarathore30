@@ -21,8 +21,6 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </a>
-##
-
 ## npm packages 
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
@@ -40,10 +38,9 @@ Here are some ideas to get you started:
 
 </p>
 <p align="center" background="grey">
-   <span>Nothing worth having, comes easy ! </span><br>
+   <span>🔶  Nothing worth having, comes easy !  🔶</span><br>
   
 </p>
 
- >Nothing worth having, comes easy ! 
  
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
