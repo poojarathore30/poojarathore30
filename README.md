@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 </p>
 <p align="center">
-   <span>Nothing worth having, comes easy ! </span><br>
+  > <span>Nothing worth having, comes easy ! </span><br>
   <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </p>
  
