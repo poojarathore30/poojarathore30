@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 ## Tools and technologies 
-<img  width="150" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
+<img  width="120" height="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
 
 <p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
