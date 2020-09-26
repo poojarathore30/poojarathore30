@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 <img  width="100" height="100" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
 <img  width="100" height="100" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
  <img  width="100" height="100" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
+  <img  width="100" height="100" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
 
 </p>
 <p align="center">
