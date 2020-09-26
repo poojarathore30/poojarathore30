@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 <img  width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi3riH1jgH8Pi1LdvCam3PnpFu4ANeFexthg&usqp=CAU">
 <img  width="100" height="100" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
 <img  width="100" height="100" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
+ <img  width="100" height="100" src=" https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png">
+
 </p>
 <p align="center">
    <span>Nothing worth having, comes easy ! </span><br>
