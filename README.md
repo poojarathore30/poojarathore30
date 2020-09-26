@@ -29,12 +29,17 @@ Here are some ideas to get you started:
 
 ## Tools and technologies 
 <p float="left">
-<img  width="100" height="100" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
-<img  width="90" height="90" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi3riH1jgH8Pi1LdvCam3PnpFu4ANeFexthg&usqp=CAU">
-<img  width="90" height="90" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
-<img  width="100" height="100" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
- <img  width="100" height="100" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
-  <img  width="100" height="100" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
+<img  width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
+<img width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi3riH1jgH8Pi1LdvCam3PnpFu4ANeFexthg&usqp=CAU">
+<img  width="80" height="80" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
+<img  width="80" height="80" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
+ <img width="80" height="80" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
+  <img width="80" height="80" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
+   <img width="80" height="80" src=" https://avatars3.githubusercontent.com/u/18133?s=200&v=4">
+   <img width="80" height="80" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
+   <img width="100" height="80" src="https://skywell.software/wp-content/uploads/2019/01/javascript-vs-html-vs-css-1024x683.jpg">
+   <img width="80" height="80" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
+
 
 </p>
 <p align="center" background="grey">
