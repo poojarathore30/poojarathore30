@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ## Tools and technologies 
 <p float="left">
 <img   width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
-<img  width="60" height="60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQi3riH1jgH8Pi1LdvCam3PnpFu4ANeFexthg&usqp=CAU">
+<img  width="60" height="60" src="https://miro.medium.com/max/700/1*q9myzo5Au8OfsaSrCodNmw.png">
 <img   width="60" height="60" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
 <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
  <img  width="70" height="70" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
