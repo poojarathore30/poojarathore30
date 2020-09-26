@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <img   width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
 <img  width="60" height="60" src="https://miro.medium.com/max/1200/1*yYN3pRB9mGS-IG_-agqDvA.png">
 <img   width="60" height="60" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800-619x619.jpg.webp">
- <img  width="60" height="60" src="https://www.ateamindia.com/wp-content/uploads/2019/03/main-qimg-f406db5658b5d0dade4d70a989560439.png">
+ <img  width="100" height="60" src="https://www.ateamindia.com/wp-content/uploads/2019/03/main-qimg-f406db5658b5d0dade4d70a989560439.png">
 <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
- <img  width="100" height="70" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
+ <img  width="70" height="70" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
   <img width="60" height="60" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
    <img width="120" height="70" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
    <img  width="60" height="60" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
