@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 
 > Nothing worth having, comes easy !  🔶
  
-![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=poojarathore30)](https://github.com/poojarathore30/github-readme-stats)
+[![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=poojarathore30&theme=radical)](https://github.com/poojarathore30/github-readme-stats)
  
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
