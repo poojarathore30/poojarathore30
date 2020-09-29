@@ -48,6 +48,6 @@ Here are some ideas to get you started:
 
 </p>
  
-[![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=poojarathore30&theme=tokyonight)](https://github.com/poojarathore30/github-readme-stats)
+[comment]: <> ([![Pooja's github stats](https://github-readme-stats.vercel.app/api?username=poojarathore30&theme=tokyonight)](https://github.com/poojarathore30/github-readme-stats))
  > Nothing worth having, comes easy !  🔶
  ![](https://github.com/poojarathore30/GitTest/blob/master/Capture_22.PNG)
