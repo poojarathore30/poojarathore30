@@ -43,7 +43,6 @@ Here are some ideas to get you started:
    <img  width="60" height="60" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
    <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png">
    <img width="60" height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png">
- <img width="60" height="60" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif">
 
 </p>
 
