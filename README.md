@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
-##
 <p><img align="center"  width="80" height="80" src="https://media1.tenor.com/images/6dcd94c7c4bf4800648ef7cbe0113c33/tenor.gif?itemid=11820295" /></p> 
+
 ## Tools and technologies 
 <p float="left">
 <img   width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
