@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact : 
 -->
 
-- 🔭 Currently working on Full Stack Development with MERN Stack
+- <p float="left"><img   width="50" height="50" src="">https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif</p> Currently working on Full Stack Development with MERN Stack
 - 🌱 Currently learning Web framework React and React Native
 - 👯 Looking to collaborate on Live Projects 
 ##
