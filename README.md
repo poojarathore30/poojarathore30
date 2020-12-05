@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on Live Projects 
 ##
  <p align="left" >Badge</p>
+ <p float="left">
 <a href=https://github.com/TesseractCoding/NeoAlgo>
 
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
-<img src=https://img.shields.io/badge/contributor-Hacktoberfest-ff69b4>
+<img src=https://img.shields.io/badge/contributor-Hacktoberfest-ff69b4></p>
 <a>
  <p align="right" >Profile</p>
  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
