@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=page.id" />
 </a>
 
-## npm packages 
+## npm package
 (make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
