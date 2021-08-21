@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </a>
 
 ## npm package
-(make-me-laugh) 🤣 <a href=https://github.com/poojarathore30/make-me-laugh>
+ <a href=https://www.npmjs.com/package/make-me-laugh> Make-Me-Laugh
    <img src=https://img.shields.io/npm/dy/make-me-laugh>
 </a>
 
