@@ -38,7 +38,6 @@ Here are some ideas to get you started:
 <img   width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGzHyBI-yMU1fhVaD6fdKdYukIESV0zHNOjw&usqp=CAU">
 <img  width="60" height="60" src="https://miro.medium.com/max/1200/1*yYN3pRB9mGS-IG_-agqDvA.png">
  <img  width="100" height="60" src="https://miro.medium.com/max/1400/1*9AbbVli10NreTXCpiVYEOQ.png">
-<img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
  <img  width="70" height="70" src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo-256x300.png">
   <img width="60" height="60" src="https://miro.medium.com/max/320/0*_rAD9NgK7l6KSlNc.png">
    <img width="120" height="70" src="https://www.freecodecamp.org/news/content/images/size/w2000/2019/11/cover-pic.jpeg">
@@ -47,6 +46,7 @@ Here are some ideas to get you started:
    <img  width="100" height="60" src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo-1280x720.png">
  <img  width="90" height="60" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png">
  <img  width="60" height="60" src="https://i.pinimg.com/564x/99/f8/87/99f887833c475448723d3c9ac16c179b.jpg">
+ <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
 </p>
 
  > Nothing worth having, comes easy !  🔶
