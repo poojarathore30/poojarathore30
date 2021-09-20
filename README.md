@@ -45,7 +45,7 @@ Here are some ideas to get you started:
    <img width="150" height="60" src="https://images.squarespace-cdn.com/content/v1/56b8dfcf62cd94ec072ddb33/1547134228418-XO27PTIE8BYNJCK3K7LS/htlm+css+and+js+logo.png">
    <img  width="100" height="60" src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo-1280x720.png">
  <img  width="90" height="60" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png">
- <img  width="60" height="60" src="https://magixsolution.com/wp-content/uploads/2020/02/C-C-classes-kanpur.png">
+ <img  width="60" height="60" src="https://www.pngitem.com/pimgs/m/355-3559358_c-and-c-logo-hd-png-download.png">
  <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
 </p>
 
