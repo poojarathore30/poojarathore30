@@ -48,8 +48,7 @@ Here are some ideas to get you started:
  <img  width="50" height="50" src="https://theindianwire.com/wp-content/uploads/2018/06/CBuilder-logo.png">
  <img  width="90" height="60" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png">
  <img  width="70" height="70" src="https://www.joinideas.org/wp-content/uploads/2017/06/python-logo.png">
- ![image](https://user-images.githubusercontent.com/53404072/140651347-a72ef973-af71-41b9-b39d-865c747b925a.png)
-
+ <img  width="70" height="70" src="https://user-images.githubusercontent.com/53404072/140651347-a72ef973-af71-41b9-b39d-865c747b925a.png">
 </p>
 
  > Nothing worth having, comes easy !  🔶
