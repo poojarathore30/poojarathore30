@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact : 
 -->
 
-- 💻 Currently working on Full Stack Development with MERN Stack
-- 🌱 Currently learning Web framework React and React Native
-- 👯 Looking to collaborate on Live Projects 
 ##
  <p align="left" >Badge</p>
  <p float="left">
